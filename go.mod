@@ -16,3 +16,4 @@ go 1.22
 # avoid re-reading the config on every call
 # guard against empty input
 # clarify the control flow
+# drop an unused branch
