@@ -22,3 +22,4 @@ Notes and usage details for mcp-trino.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- add a note about the defaults
